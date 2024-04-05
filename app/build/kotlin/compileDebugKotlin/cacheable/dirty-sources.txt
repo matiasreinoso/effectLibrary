@@ -1,0 +1,11 @@
+/Users/matiasreinoso/AndroidStudioProjects/PersonalBell/app/src/main/java/com/matiasreinoso/personalbell/EmailPasswordActivity.kt
+/Users/matiasreinoso/AndroidStudioProjects/PersonalBell/app/src/main/java/com/matiasreinoso/personalbell/ui/theme/Theme.kt
+/Users/matiasreinoso/AndroidStudioProjects/PersonalBell/app/src/main/java/com/matiasreinoso/personalbell/ui/theme/Color.kt
+/Users/matiasreinoso/AndroidStudioProjects/PersonalBell/app/src/main/java/com/matiasreinoso/personalbell/authentication/SignInScreen.kt
+/Users/matiasreinoso/AndroidStudioProjects/PersonalBell/app/src/main/java/com/matiasreinoso/personalbell/ui/theme/Type.kt
+/Users/matiasreinoso/AndroidStudioProjects/PersonalBell/app/src/main/java/com/matiasreinoso/personalbell/authentication/SignInState.kt
+/Users/matiasreinoso/AndroidStudioProjects/PersonalBell/app/src/main/java/com/matiasreinoso/personalbell/MainActivity.kt
+/Users/matiasreinoso/AndroidStudioProjects/PersonalBell/app/src/main/java/com/matiasreinoso/personalbell/utils/FirebaseServices.kt
+/Users/matiasreinoso/AndroidStudioProjects/PersonalBell/app/src/main/java/com/matiasreinoso/personalbell/authentication/SignInResult.kt
+/Users/matiasreinoso/AndroidStudioProjects/PersonalBell/app/src/main/java/com/matiasreinoso/personalbell/authentication/GoogleAuthUiClient.kt
+/Users/matiasreinoso/AndroidStudioProjects/PersonalBell/app/src/main/java/com/matiasreinoso/personalbell/authentication/SignInViewModel.kt
